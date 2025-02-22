@@ -1,8 +1,6 @@
-// let sum=0;
-// for (i=0;i<=1000;i++)
-// {
-//     sum= sum+i
-// }
-// console.log(sum)  
-
-console.log("hello world")
+let sum=0;
+for (i=0;i<=1000;i++)
+{
+    sum= sum+i
+}
+console.log(sum)  
