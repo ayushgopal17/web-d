@@ -1,13 +1,8 @@
-let firstname ="ayush";
-let age = 20;
-let ismarried = false;
+// let sum=0;
+// for (i=0;i<=1000;i++)
+// {
+//     sum= sum+i
+// }
+// console.log(sum)  
 
-
-
-if (ismarried == true)
-{
-    console.log(firstname+ " is married")
-}
-else{
-    console.log(firstname + " is not married")
-}
+console.log("hello world")
